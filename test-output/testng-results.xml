@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-20T14:27:55 IST" name="Suite" finished-at="2023-01-20T14:27:55 IST" duration-ms="74">
+    <groups>
+      <group name="SMOKE">
+        <method signature="CarLoan.CarLoan2()[pri:0, instance:test.CarLoan@140c9f39]" name="CarLoan2" class="test.CarLoan"/>
+        <method signature="HomeLoan.HomeLoan2()[pri:0, instance:test.HomeLoan@1f97cf0d]" name="HomeLoan2" class="test.HomeLoan"/>
+        <method signature="LoanDepartment.Loan2()[pri:0, instance:test.LoanDepartment@13b13b5d]" name="Loan2" class="test.LoanDepartment"/>
+      </group> <!-- SMOKE -->
+    </groups>
+    <test started-at="2023-01-20T14:27:55 IST" name="Test" finished-at="2023-01-20T14:27:55 IST" duration-ms="74">
+      <class name="test.CarLoan">
+        <test-method signature="CarLoan1()[pri:0, instance:test.CarLoan@140c9f39]" started-at="2023-01-20T14:27:55 IST" name="CarLoan1" finished-at="2023-01-20T14:27:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarLoan1 -->
+        <test-method signature="CarLoan2()[pri:0, instance:test.CarLoan@140c9f39]" started-at="2023-01-20T14:27:55 IST" name="CarLoan2" finished-at="2023-01-20T14:27:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarLoan2 -->
+        <test-method signature="CarLoan3()[pri:0, instance:test.CarLoan@140c9f39]" started-at="2023-01-20T14:27:55 IST" name="CarLoan3" finished-at="2023-01-20T14:27:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarLoan3 -->
+      </class> <!-- test.CarLoan -->
+      <class name="test.HomeLoan">
+        <test-method signature="HomeLoan1()[pri:0, instance:test.HomeLoan@1f97cf0d]" started-at="2023-01-20T14:27:55 IST" name="HomeLoan1" finished-at="2023-01-20T14:27:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeLoan1 -->
+        <test-method signature="HomeLoan2()[pri:0, instance:test.HomeLoan@1f97cf0d]" started-at="2023-01-20T14:27:55 IST" name="HomeLoan2" finished-at="2023-01-20T14:27:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeLoan2 -->
+        <test-method signature="HomeLoan3()[pri:0, instance:test.HomeLoan@1f97cf0d]" started-at="2023-01-20T14:27:55 IST" name="HomeLoan3" finished-at="2023-01-20T14:27:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeLoan3 -->
+      </class> <!-- test.HomeLoan -->
+      <class name="test.LoanDepartment">
+        <test-method signature="Loan1()[pri:0, instance:test.LoanDepartment@13b13b5d]" started-at="2023-01-20T14:27:55 IST" name="Loan1" finished-at="2023-01-20T14:27:55 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loan1 -->
+        <test-method signature="Loan2()[pri:0, instance:test.LoanDepartment@13b13b5d]" started-at="2023-01-20T14:27:55 IST" name="Loan2" finished-at="2023-01-20T14:27:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loan2 -->
+        <test-method signature="Loan3()[pri:0, instance:test.LoanDepartment@13b13b5d]" started-at="2023-01-20T14:27:55 IST" name="Loan3" finished-at="2023-01-20T14:27:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loan3 -->
+      </class> <!-- test.LoanDepartment -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
